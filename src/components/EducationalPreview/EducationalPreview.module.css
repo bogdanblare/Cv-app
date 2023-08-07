@@ -82,7 +82,7 @@ ul {
 }
 
 ul li::marker {
-  font-size: 1.55em;
+  font-size: 1em;
   color: #fff;
 }
 
