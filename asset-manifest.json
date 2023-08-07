@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Cv-app/static/css/main.087431df.css",
+    "main.js": "/Cv-app/static/js/main.f2a3a376.js",
+    "static/js/858.8d7991ba.chunk.js": "/Cv-app/static/js/858.8d7991ba.chunk.js",
+    "static/js/369.12787004.chunk.js": "/Cv-app/static/js/369.12787004.chunk.js",
+    "static/js/47.36864016.chunk.js": "/Cv-app/static/js/47.36864016.chunk.js",
+    "static/media/skills.png": "/Cv-app/static/media/skills.8b8c463343e1ba306144.png",
+    "static/media/work.png": "/Cv-app/static/media/work.7feb4588824660281593.png",
+    "static/media/school.png": "/Cv-app/static/media/school.9b885d37137ed5c84626.png",
+    "static/media/website.png": "/Cv-app/static/media/website.207ea134fccabcb9139e.png",
+    "static/media/gradcap.png": "/Cv-app/static/media/gradcap.3dadd7d4aa17f12eb55c.png",
+    "static/media/email.png": "/Cv-app/static/media/email.e0328e86831e87d53b38.png",
+    "static/media/address.png": "/Cv-app/static/media/address.e22ffbbca6e7cb83f7d0.png",
+    "index.html": "/Cv-app/index.html",
+    "static/media/remove.svg": "/Cv-app/static/media/remove.0f91546fb1b9984d2b5e6e507edafeef.svg",
+    "main.087431df.css.map": "/Cv-app/static/css/main.087431df.css.map",
+    "main.f2a3a376.js.map": "/Cv-app/static/js/main.f2a3a376.js.map",
+    "858.8d7991ba.chunk.js.map": "/Cv-app/static/js/858.8d7991ba.chunk.js.map",
+    "369.12787004.chunk.js.map": "/Cv-app/static/js/369.12787004.chunk.js.map",
+    "47.36864016.chunk.js.map": "/Cv-app/static/js/47.36864016.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087431df.css",
+    "static/js/main.f2a3a376.js"
+  ]
+}
