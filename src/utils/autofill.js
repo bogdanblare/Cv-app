@@ -4,68 +4,68 @@ const autofilledState = {
   info: [
     {
       name: "firstName",
-      value: "Nikola",
+      value: "Bogdan",
       id: uniqid(),
     },
     {
       name: "lastName",
-      value: "Tesla",
+      value: "Kulshenko",
       id: uniqid(),
     },
     {
       name: "address",
-      value: "New York, US",
+      value: "Kyiv, Ukraine",
       id: uniqid(),
     },
     {
       name: "website",
-      value: "nikolatesla.com",
+      value: "blarebogdan.com",
       id: uniqid(),
     },
     {
       name: "email",
-      value: "nikolatesla@gmail.com",
+      value: "hoots05dues@icloud.com",
       id: uniqid(),
     },
     {
       name: "phone",
-      value: "555-555-5555",
+      value: "+38(068)-900-3003",
       id: uniqid(),
     },
     {
       name: "bio",
       value:
-        "Motivated and results-driven Senior Software Engineer with 8+ years of experience in my field. I have continuously demonstrated experience in improving software performance by implementing new ideas, updating, testing and coding. Experience in development tools which increase accuracy and performance of software, especially in React and with React Redux, are my specialization. In my free time, I go on a walk with the two of my dogs or spend time with friends. I also play chess and appreciate any competitive environment when pursuing sports.",
+        "Motivated 25 year old Junior Software Engineer with a strong foundation in web development. Completed The Odin Project and actively engaged in building a personal startup. Proficient in programming languages including HTML, CSS, JavaScript, and TypeScript. Experienced in using Visual Studio Code as a code editor and skilled in version control with Git and ESLint. Familiar with Tailwind CSS for creating responsive and visually appealing interfaces. Well-versed in Node.js and adept at utilizing frameworks such as React and Next.js. Possess knowledge of database systems, including Prisma, PostgreSQL, and MongoDB. In addition to my technical skills, I bring a competitive edge from my passion for playing beach volleyball, fostering teamwork and determination. Driven by a passion for solving complex problems and eager to contribute to innovative software solutions. Excited to leverage skills and enthusiasm to support the development of cutting-edge applications and deliver high-quality code.",
       id: uniqid(),
     },
     {
       name: "universityName",
-      value: "University of Chicago",
+      value: "Taras Shevchenko National University of Kyiv",
       id: uniqid(),
     },
     {
       name: "universityDegree",
-      value: "Master of Science",
+      value: "Master of Economics and Law",
       id: uniqid(),
     },
     {
       name: "universityDate",
-      value: "2010 - 2014",
+      value: "2019 - 2021",
       id: uniqid(),
     },
     {
       name: "schoolName",
-      value: "Sullivan High School",
+      value: "State Tax University",
       id: uniqid(),
     },
     {
       name: "schoolDegree",
-      value: "HS Diploma",
+      value: "Bachelor of Law",
       id: uniqid(),
     },
     {
       name: "schoolDate",
-      value: "2004 - 2010",
+      value: "2015 - 2019",
       id: uniqid(),
     },
   ],
@@ -74,20 +74,20 @@ const autofilledState = {
     {
       isHovered: false,
       id: uniqid(),
-      company: "Dice",
-      position: "Senior Software Engineer",
-      task: "I provided technical leadership for complex projects. I used the latest technologies such as Cloud Service, Visual Studio 2019 and Azure DevOps. I gained experience with data technologies such as SQL Servers, NoSQL databases, full text search engines and caching. My daily work consisted mostly of maintaining full project life-cycle tasks including testing, debugging, technical analysis, design and coding.",
-      start: "2016",
+      company: "entrepreneur",
+      position: "Junior Software Engineer",
+      task: "I worked on telegram bot based solution for a scooter sharing company. I developed bot handlers that communicate with Teltonika TST100 chip to execute different commands.",
+      start: "2022",
       end: "Present",
     },
     {
       isHovered: false,
       id: uniqid(),
-      company: "Rose International",
-      position: "Software Engineer",
-      task: "I worked on the company's software development plans including all aspects of the SDLC in collaboration with peer programmers. My daily workflow here consisted of performing error analysis, assisting with IT issues and building/accessing databases including NoSQL and Node.js. I, together with my team of peers, developed 25+ Java Applications in the time of my employment.",
-      start: "2014",
-      end: "2016",
+      company: "Public Service",
+      position: "Senior operative for particularly important cases",
+      task: "I processed information from automated information and reference systems, registers, banks (databases) of state authorities, bodies of local self-government.",
+      start: "2019",
+      end: "2021",
     },
   ],
 
@@ -110,17 +110,22 @@ const autofilledState = {
     {
       isHovered: false,
       id: uniqid(),
-      skill: "Redux",
-    },
-    {
-      isHovered: false,
-      id: uniqid(),
-      skill: "PostgreSQL",
-    },
-    {
-      isHovered: false,
-      id: uniqid(),
       skill: "Node.js",
+    },
+    {
+      isHovered: false,
+      id: uniqid(),
+      skill: "Next.js",
+    },
+    {
+      isHovered: false,
+      id: uniqid(),
+      skill: "JavaScript",
+    },
+    {
+      isHovered: false,
+      id: uniqid(),
+      skill: "TypeScript",
     },
     {
       isHovered: false,
@@ -130,29 +135,24 @@ const autofilledState = {
     {
       isHovered: false,
       id: uniqid(),
-      skill: "Java",
-    },
-    {
-      isHovered: false,
-      id: uniqid(),
-      skill: "Python",
-    },
-    {
-      isHovered: false,
-      id: uniqid(),
-      skill: "Express.js",
-    },
-    {
-      isHovered: false,
-      id: uniqid(),
       skill: "Git",
+    },
+    {
+      isHovered: false,
+      id: uniqid(),
+      skill: "MongoDB",
+    },
+    {
+      isHovered: false,
+      id: uniqid(),
+      skill: "Prisma",
     },
   ],
 
   newSkill: {
     isHovered: false,
     id: uniqid(),
-    skill: "",
+    skill: "PostgreSQL",
   },
 };
 
