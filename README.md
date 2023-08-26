@@ -1,4 +1,4 @@
-## Run Locally
+## 🔧 Run Locally
 
 Clone the project
 
@@ -25,15 +25,15 @@ Start the server
 ```
 
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://github.com/bogdanblare/Cv-app/blob/master/Screenshot.png?raw=true)
 
-## CV App
+## 📱 CV App
 
 The CV App is a web application developed by Bogdan Blare that allows users to create and customize their professional Curriculum Vitae (CV) or resume online. It provides a convenient and user-friendly interface for crafting an impressive CV that highlights skills, experiences, and qualifications.
 
-## Features
+## ✨ Features
 
 - CV Creation: The app offers a straightforward way to create a personalized CV. Users can input their personal information, including contact details, work experience, education, skills, and more.
 - Customization Options: Users have the ability to customize the appearance and layout of their CV, such as choosing from different templates, fonts, colors, and  sections to suit their preferences.
