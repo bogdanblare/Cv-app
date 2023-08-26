@@ -41,7 +41,7 @@ The CV App is a web application developed by Bogdan Blare that allows users to c
 - Responsive Design: The application is designed to be responsive, ensuring that the CVs created using the app look great on different devices, including desktops, tablets, and mobile phones.
 Convenience and Accessibility: The CV App enables users to access and edit their CVs anytime, anywhere, as long as they have an internet connection. This makes it convenient for updating and maintaining CVs as needed.
 
-## How to Use
+## 💡 How to Use
 
 - Access the CV App through the following link: https://bogdanblare.github.io/Cv-app/.
 - Start by entering your personal information, such as your name, contact details, and a brief summary or objective statement.
