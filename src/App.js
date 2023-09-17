@@ -214,7 +214,7 @@ class App extends React.Component {
   // Recolouring SVGs (with the "fill:" property) on hover
   handleMouse(e) {
     const index = this.state.experience.findIndex(
-      (work) => work.id === e.target.id,
+      (work) => work.id === e.target.id
     );
     const experience = this.state.experience.map((work, i) => {
       if (i === index) {
@@ -234,7 +234,7 @@ class App extends React.Component {
   // Recolouring SVGs (with the "fill:" property) on hover
   handleMouseSkills(e) {
     const index = this.state.skills.findIndex(
-      (skill) => skill.id === e.target.id,
+      (skill) => skill.id === e.target.id
     );
     const skills = this.state.skills.map((skill, i) => {
       if (i === index) {
@@ -254,7 +254,7 @@ class App extends React.Component {
   // Handling edits for input fields that control the experience state
   handleWorkChange(e) {
     const index = this.state.experience.findIndex(
-      (work) => work.id === e.target.id,
+      (work) => work.id === e.target.id
     );
     const experience = this.state.experience.map((work, i) => {
       if (i === index) {
@@ -274,7 +274,7 @@ class App extends React.Component {
   // Handling edits for input fields that control the skills state
   handleSkillChange(e) {
     const index = this.state.skills.findIndex(
-      (skill) => skill.id === e.target.id,
+      (skill) => skill.id === e.target.id
     );
     const skills = this.state.skills.map((skill, i) => {
       if (i === index) {
