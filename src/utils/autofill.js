@@ -34,8 +34,7 @@ const autofilledState = {
     },
     {
       name: "bio",
-      value:
-        "Motivated 25 year old  Software Engineer with a strong foundation in web development. Completed The Odin Project and actively engaged in building a personal startup. Proficient in programming languages including HTML, CSS, JavaScript, and TypeScript. Experienced in using Visual Studio Code as a code editor and skilled in version control with Git and ESLint. Familiar with Tailwind CSS for creating responsive and visually appealing interfaces. Well-versed in Node.js and adept at utilizing frameworks such as React and Next.js. Possess knowledge of database systems, including Prisma, PostgreSQL, and MongoDB. In addition to my technical skills, I bring a competitive edge from my passion for playing beach volleyball, fostering teamwork and determination. Driven by a passion for solving complex problems and eager to contribute to innovative software solutions. Excited to leverage skills and enthusiasm to support the development of cutting-edge applications and deliver high-quality code.",
+      value: "bio",
       id: uniqid(),
     },
     {
