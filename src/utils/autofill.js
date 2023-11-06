@@ -34,7 +34,8 @@ const autofilledState = {
     },
     {
       name: "bio",
-      value: "bio",
+      value:
+        "Self-taught software engineer with experience and extensive education in software design and application development. Fluent in Ukrainian and English with excellent communication and communication skills. I learn quickly, plan my time well and can multitask. Strong work ethic in a team or individually to achieve product success and process efficiency. Good problem-solving and problem-solving skills with analytical thinking. In my free time from programming, I have hobbies like beach volleyball and swimming.",
       id: uniqid(),
     },
     {
@@ -73,7 +74,7 @@ const autofilledState = {
     {
       isHovered: false,
       id: uniqid(),
-      company: "entrepreneur",
+      company: "Escooter co.",
       position: "Software Engineer",
       task: "I worked on App based solution for a scooter sharing company. I developed  handlers that communicate with GPS chip to execute different commands.",
       start: "2022",
